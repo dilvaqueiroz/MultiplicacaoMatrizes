@@ -11,7 +11,7 @@ O arquivo tem a seguinte estrutura. Primeira linha contém o tamanho da matriz l
 O metódo Main realiza a chamada para execução do programa, nele também se encontra a chamada para leitura do arquivo, assim como a lógica para a leitura do mesmo. 
 Também contém a inicialização de ambas as matrizes e o calculo de ambas.
 
-Enquanto que método retornaResultadoMAtriz representado pelo trecho de código abaixo, faz a soma das matrizes e retorna a variável que as recebe.
+Enquanto que método retornaResultadoMAtriz representado pelo trecho de código abaixo, realiza a soma das matrizes e retorna a variável que as recebe.
 
 ```java
 public static int retornaResultadoMatriz(int m1[][],int m2[][], int linha, int coluna){
