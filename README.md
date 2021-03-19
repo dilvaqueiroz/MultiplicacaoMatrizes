@@ -6,7 +6,7 @@ Um Exemplo de algoritmo de multiplicação de matrizes paralela/distribuída par
 - [Java](https://docs.oracle.com/en/java/)
 
 ## Funcionamento do exemplo
-Na entrada do programa será dois arquivos de texto que serão passados como parâmetros na chamada do programa.
+Na entrada do programa terá dois arquivos de texto que serão passados como parâmetros na chamada do programa.
 O arquivo tem a seguinte estrutura. Primeira linha contém o tamanho da matriz linha x coluna da segunda linha em diante os valores da matriz.
 O metódo Main realiza a chamada para execução do programa, nele também se encontra a chamada para leitura do arquivo, assim como a lógica para a leitura do mesmo. 
 Também contém a inicialização de ambas as matrizes e o calculo de ambas.
